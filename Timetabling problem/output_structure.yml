@@ -1,0 +1,2921 @@
+
+- class: Y1_S1_G1
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S1_G2
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S1_G3
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S1_G4
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S2_G1
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S2_G2
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S2_G3
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S2_G4
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S3_G1
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S3_G2
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S3_G3
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y1_S3_G4
+  courses:
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t2'''
+    - '''t3'''
+    room_type: Amphi
+    units: 3
+  - course: Foundational Mathematics
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 3
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 2
+  - course: Data Structures and Algorithms 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: Amphi
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: LAB
+    units: 1
+  - course: Digital Systems
+    course_year: 1
+    lecturer:
+    - '''t1'''
+    - '''t4'''
+    - '''t6'''
+    - '''t8'''
+    - '''t6'''
+    - '''t9'''
+    room_type: TUTO
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Information Technology Essentials
+    course_year: 1
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: English 1
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Critical Thinking and Creativity Skills
+    course_year: 1
+    lecturer: []
+    room_type: TUTO
+    units: 1
+- class: Y2_S1_G1
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S1_G2
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S1_G3
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S1_G4
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S2_G1
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S2_G2
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S2_G3
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+- class: Y2_S2_G4
+  courses:
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Data Structures and Algorithms 2
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Logic
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Mathematical Analysis 2
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 2
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Databases
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 1
+  - course: Probability
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: MProbability
+    course_year: 2
+    lecturer: []
+    room_type: TUTO
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+  - course: Web Development
+    course_year: 2
+    lecturer: []
+    room_type: LAB
+    units: 2
+  - course: Introduction to Business
+    course_year: 2
+    lecturer: []
+    room_type: Amphi
+    units: 1
+# - class: Y3_S1_G1
+#   courses:
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: LAB
+#     units: 2
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+# - class: Y3_S1_G2
+#   courses:
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: LAB
+#     units: 2
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+# - class: Y3_S1_G3
+#   courses:
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: LAB
+#     units: 2
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+# - class: Y3_S2_G1
+#   courses:
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: LAB
+#     units: 2
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+# - class: Y3_S2_G2
+#   courses:
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: LAB
+#     units: 2
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+# - class: Y3_S2_G3
+#   courses:
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Data Mining
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: LAB
+#     units: 2
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer:
+#     - '''t11'''
+#     - '''t41'''
+#     - '''t61'''
+#     - '''t81'''
+#     - '''t62'''
+#     - '''t93'''
+#     room_type: Amphi
+#     units: 1
+#   - course: Operations Research
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Stochastic Modelling and Simulation
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Software Engineering
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Networks and Protocols
+#     course_year: 3
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Mobile Development
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Entrepreneurship and Innovation
+#     course_year: 3
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+# - class: Y4_S1_G1
+#   courses:
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 3
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 4
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: AI and Ethics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+# - class: Y4_S1_G2
+#   courses:
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 3
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 4
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: AI and Ethics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+# - class: Y4_S1_G3
+#   courses:
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 3
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 4
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: AI and Ethics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+# - class: Y4_S2_G1
+#   courses:
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 3
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 4
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: AI and Ethics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+# - class: Y4_S2_G2
+#   courses:
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 3
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 4
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: AI and Ethics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+# - class: Y4_S2_G3
+#   courses:
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 3
+#   - course: Natural Language Processing
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 4
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 2
+#   - course: Deep Learning
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 2
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Human Computer Interaction
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Wireless Communication Networks and Systems
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: LAB
+#     units: 1
+#   - course: Introduction to Mobile Robotics
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1
+#   - course: AI and Ethics
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: Amphi
+#     units: 1
+#   - course: Selected topics in AI-Technology
+#     course_year: 4
+#     lecturer: []
+#     room_type: TUTO
+#     units: 1

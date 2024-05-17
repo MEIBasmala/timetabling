@@ -1,0 +1,6749 @@
+- day : 1
+  - timeslot: 8.30
+    - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 10.10
+   - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+  - timeslot: 11.50
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 13.30
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 15.10
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+      - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 16.40
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : ""
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+   
+
+- day : 2
+  - day : 1
+  - timeslot: 8.30
+    - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : ""Foundational Mathematics""
+      teacher : ""benferhat""
+      classroom : 25
+      room_type : ""tuto""
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 10.10
+   - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+  - timeslot: 11.50
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 13.30
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 15.10
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+      - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 16.40
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : ""
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+   
+
+    
+- day : 3
+  - timeslot: 8.30
+    - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : ""Foundational Mathematics""
+      teacher : ""benferhat""
+      classroom : 25
+      room_type : ""tuto""
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 10.10
+   - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+  - timeslot: 11.50
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 13.30
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 15.10
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+      - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 16.40
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : ""
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+   
+
+
+- day : 4
+  - timeslot: 8.30
+    - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : ""Foundational Mathematics""
+      teacher : ""benferhat""
+      classroom : 25
+      room_type : ""tuto""
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 10.10
+   - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+  - timeslot: 11.50
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 13.30
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 15.10
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+      - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 16.40
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : ""
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+- day : 5
+   - timeslot: 8.30
+    - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : ""Foundational Mathematics""
+      teacher : ""benferhat""
+      classroom : 25
+      room_type : ""tuto""
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 10.10
+   - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+  - timeslot: 11.50
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 13.30
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 15.10
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+      - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+  - timeslot: 16.40
+     - group&year : "Y1_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y1_S3_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S1_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y2_S2_G4"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y3_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : ""
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S1_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G1"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G2"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"
+
+    - group&year : "Y4_S2_G3"
+      indication : "study" 
+      course : "Foundational Mathematics"
+      teacher : "benferhat"
+      classroom : 25
+      room_type : "tuto"

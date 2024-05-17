@@ -1,0 +1,421 @@
+timetables:
+  Timetable 1:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t1
+        room: RoomB
+        time: 14.0
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomB
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomB
+        time: 9.0
+      - course: English 1
+        lecturer: t6
+        room: RoomA
+        time: 9.0
+  Timetable 10:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomB
+        time: 9.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomA
+        time: 9.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 10.5
+      - course: English 1
+        lecturer: t6
+        room: RoomA
+        time: 9.0
+  Timetable 11:
+    cost: 200
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t3
+        room: RoomB
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomC
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomB
+        time: 10.5
+      - course: English 1
+        lecturer: t6
+        room: RoomC
+        time: 9.0
+  Timetable 12:
+    cost: 400
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t3
+        room: RoomB
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomA
+        time: 9.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t6
+        room: RoomB
+        time: 14.0
+  Timetable 13:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t3
+        room: RoomB
+        time: 14.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomC
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomC
+        time: 10.5
+      - course: English 1
+        lecturer: t3
+        room: RoomA
+        time: 9.0
+  Timetable 14:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomB
+        time: 9.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomB
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomC
+        time: 10.5
+      - course: English 1
+        lecturer: t3
+        room: RoomC
+        time: 14.0
+  Timetable 15:
+    cost: 300
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t1
+        room: RoomA
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomC
+        time: 9.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t3
+        room: RoomB
+        time: 10.5
+  Timetable 16:
+    cost: 200
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t3
+        room: RoomA
+        time: 9.0
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomA
+        time: 9.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t3
+        room: RoomC
+        time: 14.0
+  Timetable 17:
+    cost: 200
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t1
+        room: RoomC
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomA
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomC
+        time: 14.0
+      - course: English 1
+        lecturer: t3
+        room: RoomA
+        time: 9.0
+  Timetable 18:
+    cost: 200
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomB
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomB
+        time: 9.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t6
+        room: RoomA
+        time: 10.5
+  Timetable 19:
+    cost: 0
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t3
+        room: RoomB
+        time: 14.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomC
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 14.0
+      - course: English 1
+        lecturer: t3
+        room: RoomB
+        time: 9.0
+  Timetable 2:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t1
+        room: RoomA
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomB
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t6
+        room: RoomC
+        time: 14.0
+  Timetable 20:
+    cost: 200
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomB
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomA
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t3
+        room: RoomB
+        time: 14.0
+  Timetable 3:
+    cost: 300
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomA
+        time: 14.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomC
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 10.5
+      - course: English 1
+        lecturer: t6
+        room: RoomA
+        time: 10.5
+  Timetable 4:
+    cost: 300
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomC
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomC
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomC
+        time: 14.0
+      - course: English 1
+        lecturer: t6
+        room: RoomA
+        time: 10.5
+  Timetable 5:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t1
+        room: RoomA
+        time: 14.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomB
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomC
+        time: 10.5
+      - course: English 1
+        lecturer: t3
+        room: RoomA
+        time: 9.0
+  Timetable 6:
+    cost: 300
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomA
+        time: 9.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomC
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t4
+        room: RoomA
+        time: 10.5
+      - course: English 1
+        lecturer: t6
+        room: RoomC
+        time: 10.5
+  Timetable 7:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t3
+        room: RoomC
+        time: 10.5
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomA
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomC
+        time: 14.0
+      - course: English 1
+        lecturer: t3
+        room: RoomB
+        time: 14.0
+  Timetable 8:
+    cost: 100
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t2
+        room: RoomB
+        time: 9.0
+      - course: Digital Systems
+        lecturer: t5
+        room: RoomA
+        time: 10.5
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 10.5
+      - course: English 1
+        lecturer: t3
+        room: RoomA
+        time: 14.0
+  Timetable 9:
+    cost: 200
+    schedule:
+      Y1_S1_G1:
+      - course: Foundational Mathematics
+        lecturer: t1
+        room: RoomA
+        time: 14.0
+      - course: Digital Systems
+        lecturer: t4
+        room: RoomB
+        time: 14.0
+      Y1_S1_G2:
+      - course: Data Structures and Algorithms 1
+        lecturer: t1
+        room: RoomA
+        time: 9.0
+      - course: English 1
+        lecturer: t6
+        room: RoomC
+        time: 10.5

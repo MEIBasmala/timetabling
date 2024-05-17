@@ -1,0 +1,367 @@
+timetable_data:
+  classes:
+    - Y1_S1_G1
+    - Y1_S1_G2
+    - Y1_S1_G3
+    - Y1_S1_G4
+    - Y1_S2_G1
+    - Y1_S2_G2
+    - Y1_S2_G3
+    - Y1_S2_G4
+    - Y1_S3_G1
+    - Y1_S3_G2
+    - Y1_S3_G3
+    - Y1_S3_G4
+    - Y2_S1_G1
+    - Y2_S1_G2
+    - Y2_S1_G3
+    - Y2_S1_G4
+    - Y2_S2_G1
+    - Y2_S2_G2
+    - Y2_S2_G3
+    - Y2_S2_G4
+    - Y3_S1_G1
+    - Y3_S1_G2
+    - Y3_S1_G3
+    - Y3_S2_G1
+    - Y3_S2_G2
+    - Y3_S2_G3
+    - Y4_S1_G1
+    - Y4_S1_G2
+    - Y4_S1_G3
+    - Y4_S2_G1
+    - Y4_S2_G2
+    - Y4_S2_G3
+
+  session:
+    - [8:30, 10:00]
+    - [10:10, 11:40]
+    - [11:50, 13:20]
+    - [13:30, 15:00]
+    - [15:10, 16:40]
+    - [16:50, 18:20]
+
+  days:
+    - Sunday
+    - Monday
+    - Tuesday
+    - Wednesday
+    - Thursday
+
+  specialty_courses:
+    Computer Science:
+      - Data Structures and Algorithms 1
+      - Digital Systems
+      - Information Technology Essentials
+      - Object Oriented Programming
+      - Introduction to Linux
+      - Data Structures and Algorithms 2
+      - Databases
+      - Web Development
+      - Theory of Computing
+      - Operating Systems
+      - Computer Architecture
+      - Introduction to AI
+      - Data Mining
+      - Operations Research
+      - Software Engineering
+      - Networks and Protocols
+      - Mobile Development
+      - Machine Learning
+      - Advanced Databases
+      - Computer and network Security
+      - Natural Language Processing
+      - Deep Learning
+      - Human Computer Interaction
+      - Introduction to Mobile Robotics
+      - Wireless Communication Networks and Systems
+      - Selected topics in AI-Technology
+      - Electronic Circuits LABs
+    Mathematics:
+      - Foundational Mathematics
+      - Linear Algebra
+      - Mathematical Analysis 1
+      - Mathematical Analysis 2
+      - Mathematical Logic
+      - Mathematical Analysis 3
+      - Time Series Analysis and Classification
+      - Numerical Methods and Optimisation
+    Statistics:
+      - Statistical Inference
+      - Probability
+      - Introduction to Statistics
+      - Stochastic Modelling and Simulation
+    Organizational Psychology:
+      - Critical Thinking and Creativity Skills
+    English:
+      - English 1
+      - English 2
+    Business & Entrepreneurship:
+      - Entrepreneurship and Innovation
+      - Introduction to Business
+      - Group-Project
+  indication: ["study", "free", "lunchbreak"]
+
+  course_mapping:
+
+      #semester 1
+    - ["Foundational Mathematics", "Amphi",  3, 1]  
+    - ["Foundational Mathematics", "TUTO",  3, 1]  
+    - ["Data Structures and Algorithms 1", "Amphi",  1, 1]  
+    - ["Data Structures and Algorithms 1", "LAB",  2, 1]  
+    - ["Data Structures and Algorithms 1", "TUTO",  1, 1]  
+    - ["Digital Systems", "Amphi",  1, 1]  
+    - ["Digital Systems", "LAB",  1, 1]  
+    - ["Digital Systems", "TUTO",  1, 1]  
+    - ["Information Technology Essentials", "Amphi",  1, 1]  
+    - ["Information Technology Essentials", "LAB",  1, 1]  
+    - ["English 1", "TUTO",  1, 1]  
+    - ["Critical Thinking and Creativity Skills", "TUTO",  1, 1]  
+    # semester 2
+    - ["Object Oriented Programming", "Amphi",  1, 1]  
+    - ["Object Oriented Programming", "LAB",  1, 1]  
+    - ["Object Oriented Programming", "TUTO",  1, 1]  
+    - ["Introduction to Linux", "Amphi",  1, 1]  
+    - ["Introduction to Linux", "LAB",  2, 1]  
+    - ["Linear Algebra", "Amphi",  2, 1]  
+    - ["Linear Algebra", "TUTO",  2, 1]  
+    - ["Mathematical Analysis 1", "Amphi",  2, 1]  
+    - ["Mathematical Analysis 1", "TUTO",  2, 1]  
+    - ["Introduction to Statistics", "Amphi",  1, 1]  
+    - ["Introduction to Statistics", "TUTO",  1, 1]  
+    - ["English 2", "TUTO",  1, 1]  
+
+
+      #semester 3
+
+
+
+    - ["Data Structures and Algorithms 2", "Amphi",  1, 2]
+    - ["Data Structures and Algorithms 2", "TUTO",  1, 2]
+    - ["Data Structures and Algorithms 2", "LAB",  1, 2]
+    - ["Mathematical Logic", "Amphi",  1, 2]
+    - ["Mathematical Logic", "TUTO",  1, 2]
+    - ["Mathematical Analysis 2", "Amphi",  1, 2]
+    - ["Mathematical Analysis 2", "TUTO",  2, 2]
+    - ["Databases", "Amphi",  1, 2]
+    - ["Databases", "TUTO",  1, 2]
+    - ["Databases", "LAB",  1, 2]
+    - ["Probability", "Amphi",  1, 2]
+    - ["Probability", "TUTO",  1, 2]
+    - ["Web Development", "Amphi",  1, 2]
+    - ["Web Development", "LAB",  2, 2]
+    - ["Introduction to Business", "Amphi",  1, 2]
+
+
+
+     #semester 4
+
+
+    - ["Theory of Computing", "Amphi",  1, 2]  
+    - ["Theory of Computing", "TUTO",  1, 2]  
+    - ["Operating Systems", "Amphi",  1, 2]  
+    - ["Operating Systems", "TUTO",  1, 2]  
+    - ["Operating Systems", "LAB",  1, 2]  
+    - ["Computer Architecture", "Amphi",  1, 2]  
+    - ["Computer Architecture", "TUTO",  1, 2]  
+    - ["Computer Architecture", "LAB",  1, 2]  
+    - ["Statistical Inference", "Amphi",  1, 2]  
+    - ["Statistical Inference", "TUTO",  1, 2]  
+    - ["Introduction to AI", "Amphi",  2, 2]  
+    - ["Introduction to AI", "TUTO",  1, 2]  
+    - ["Introduction to AI", "LAB",  1, 2]  
+    - ["Mathematical Analysis 3", "Amphi",  1, 2]  
+    - ["Mathematical Analysis 3", "TUTO",  1, 2]  
+    - ["Electronic Circuits LABs", "LAB",  1, 2]  
+
+
+     #semester 5
+
+
+
+
+    - ["Data Mining", "Amphi",  1, 3]
+    - ["Data Mining", "LAB",  2, 3]
+    - ["Operations Research", "Amphi",  1, 3]
+    - ["Operations Research", "TUTO",  1, 3]
+    - ["Stochastic Modelling and Simulation", "Amphi",  1, 3]  
+    - ["Stochastic Modelling and Simulation", "LAB",  1, 3]  
+    - ["Stochastic Modelling and Simulation", "TUTO",  1, 3]  
+    - ["Software Engineering", "Amphi",  1, 3]  
+    - ["Software Engineering", "LAB",  1, 3]  
+    - ["Software Engineering", "TUTO",  1, 3]  
+    - ["Networks and Protocols", "Amphi",  2, 3]  
+    - ["Networks and Protocols", "LAB",  1, 3]  
+    - ["Networks and Protocols", "TUTO",  1, 3]  
+    - ["Mobile Development", "Amphi",  1, 3]  
+    - ["Mobile Development", "LAB",  2, 3]  
+    - ["Entrepreneurship and Innovation", "Amphi",  1, 3]  
+    - ["Entrepreneurship and Innovation", "LAB",  1, 3]  
+
+
+
+
+
+
+      #semester 6
+
+
+
+    - ["Machine Learning", "Amphi",  2, 3]  
+    - ["Machine Learning", "LAB",  2, 3]  
+    - ["Machine Learning", "TUTO",  1, 3]  
+    - ["Numerical Methods and Optimisation", "Amphi",  2, 3]  
+    - ["Numerical Methods and Optimisation", "LAB",  1, 3]  
+    - ["Numerical Methods and Optimisation", "TUTO",  1, 3]  
+    - ["Time Series Analysis and Classification", "Amphi",  2, 3]  
+    - ["Time Series Analysis and Classification", "LAB",  1, 3]
+    - ["Time Series Analysis and Classification", "TUTO",  1, 3]  
+    - ["Advanced Databases", "C",  2, 3]  
+    - ["Advanced Databases", "LAB",  1, 3]  
+    - ["Advanced Databases", "TUTO",  1, 3]  
+    - ["Computer and network Security", "Amphi",  2, 3]  
+    - ["Computer and network Security", "LAB",  1, 3]  
+    - ["Computer and network Security", "TUTO",  1, 3]  
+    - ["Group-Project", "LAB",  1, 3]  
+
+
+
+
+         #semester 7
+
+
+
+
+
+
+
+
+
+    - ["Natural Language Processing", "Amphi",  3, 4]  
+    - ["Natural Language Processing", "LAB",  4, 4]  
+    - ["Deep Learning", "Amphi",  2, 4]  
+    - ["Deep Learning", "LAB",  2, 4]  
+    - ["Human Computer Interaction", "Amphi",  1, 4]  
+    - ["Human Computer Interaction", "LAB",  1, 4]  
+    - ["Wireless Communication Networks and Systems", "Amphi",  1, 4]  
+    - ["Wireless Communication Networks and Systems", "LAB",  1, 4]  
+    - ["Wireless Communication Networks and Systems", "TUTO",  1, 4]  
+    - ["Introduction to Mobile Robotics", "Amphi",  1, 4]  
+    - ["Introduction to Mobile Robotics", "LAB",  1, 4]  
+    - ["Introduction to Mobile Robotics", "TUTO",  1, 4]  
+    - ["AI and Ethics", "Amphi",  1, 4]  
+    - ["Selected topics in AI-Technology", "Amphi",  1, 4]  
+    - ["Selected topics in AI-Technology", "TUTO",  1, 4]  
+
+
+
+
+  teachers:
+    - [teacher1, Mustapha Achoui, Professor, Organizational Psychology, 4, [1, 2, 3]]
+    - [teacher2, Fouzia Anguel, Assistant Professor, Computer Science, 5, [1, 2]]
+    - [teacher3, Nawel Arrar Remita, Associate Professor, Statistics, 3, [1, 3]]
+    - [teacher4, Abdelmalik Bachir, Professor, Computer Science, 6, [1, 2, 3]]
+    - [teacher5, Sami Belkacem, Assistant Professor, Computer Science, 4, [2, 3]]
+    - [teacher6, Leila Benferhat, Professor, Mathematics, 2, [1, 2]]
+    - [teacher7, Amina Bensalem, Assistant Professor, Computer Science, 6, [2, 3]]
+    - [teacher8, Sid Ahmed Berrani, Professor, Computer Science, 3, [1]]
+    - [teacher9, Imed Bouchrika, Professor, Computer Science, 5, [1, 3]]
+    - [teacher10, Kamel Boukhalfa, Professor, Computer Science, 2, [2]]
+    - [teacher11, Aicha Boutorh, Assistant Professor, Computer Science, 4, [1, 3]]
+    - [teacher12, Seif Eddine Bouziane, Assistant Professor, Computer Science, 5, [2]]
+    - [teacher13, Mohammed Brahimi, Assistant Professor, Computer Science, 3, [1]]
+    - [teacher14, Houssem Brairi, Assistant Professor, Statistics, 6, [2, 3]]
+    - [teacher15, Wahid Hamza Mohamed CHAMI, Assistant Professor, English, 4, [1, 2]]
+    - [teacher16, Ahmed Cherchem, Professor, Mathematics, 2, [2, 3]]
+    - [teacher17, Abdelhakim Cheriet, Associate Professor, Computer Science, 6, [1, 2]]
+    - [teacher18, Khadidja Chettah, Assistant Professor, Computer Science, 3, [1, 2, 3]]
+    - [teacher19, Hicham Deghbouch, Assistant Professor, Computer Science, 4, [1, 3]]
+    - [teacher20, Chabane Djeddi, Assistant Professor, Computer Science, 5, [2]]
+    - [teacher21, Amir Djouama, Associate Professor, Computer Science, 3, [1, 2]]
+    - [teacher22, Ahmed Guessoum, Professor, Computer Science, 6, [1, 3]]
+    - [teacher23, Meriem Amel Guessoum, Assistant Professor, Computer Science, 4, [1, 2]]
+    - [teacher24, Mohamed Hadj Ameur, Assistant Professor, Computer Science, 2, [1, 3]]
+    - [teacher25, Kamel Eddine Heraguemi, Associate Professor, Computer Science, 5, [1, 2]]
+    - [teacher26, Farah Ibelaiden, Assistant Professor, Computer Science, 6, [1, 3]]
+    - [teacher27, Lila Ihaddadene, Assistant Professor, Mathematics, 3, [2, 3]]
+    - [teacher28, Abdelrahim Kacimi, Associate Professor, Mathematics, 4, [1, 3]]
+    - [teacher29, Rokia Kechkar, Associate Professor, Mathematics, 5, [1, 2]]
+    - [teacher30, Mohamed Akram Khelili, Assistant Professor, Computer Science, 2, [2, 3]]
+    - [teacher31, Soumaya Lakehal, Assistant Professor, Mathematics, 4, [1, 2]]
+    - [teacher32, Noureddine Lasla, Associate Professor, Computer Science, 6, [2, 3]]
+    - [teacher33, Karim Lounis, Assistant Professor, Computer Science, 3, [1]]
+    - [teacher34, Ouarda Lounis, Assistant Professor, Computer Science, 2, [1, 3]]
+    - [teacher35, Mohamed Mahmoudi, Assistant Professor, Computer Science, 5, [2, 3]]
+    - [teacher36, Tarek Medkour, Professor, Statistics, 6, [1]]
+    - [teacher37, Ouslimani Nassira, Assistant Professor, English, 4, [1, 3]]
+    - [teacher38, Iness Nedji, Assistant Professor, Computer Science, 3, [1, 2]]
+    - [teacher39, Youcef Omari, Assistant Professor, Computer Science, 2, [2]]
+    - [teacher40, Mohand Said Oukil, Professor, Business & Entrepreneurship, 5, [1, 3]]
+    - [teacher41, Riad Remita, Professor, Statistics, 3, [1, 2]]
+    - [teacher42, Hayet Saadi, Assistant Professor, Computer Science, 4, [1, 2]]
+    - [teacher43, Yesin Sahraoui, Assistant Professor, Computer Science, 5, [2, 3]]
+    - [teacher44, Zouheyr Tamrabet, Assistant Professor, Computer Science, 6, [1, 2]]
+
+
+
+  rooms:
+    - [1, TUTO, 25, TUTO 1]
+    - [2, TUTO, 25, TUTO 2]
+    - [3, TUTO, 25, TUTO 3]
+    - [4, TUTO, 25, TUTO 4]
+    - [5, TUTO, 25, TUTO 5]
+    - [6, TUTO, 25, TUTO 6]
+    - [7, TUTO, 25, TUTO 7]
+    - [8, TUTO, 25, TUTO 8]
+    - [9, TUTO, 25, TUTO 9]
+    - [10, TUTO, 25, TUTO 10]
+    - [11, TUTO, 25, TUTO 11]
+    - [12, TUTO, 25, TUTO 12]
+    - [13, TUTO, 25, TUTO 13]
+    - [14, TUTO, 25, TUTO 14]
+    - [15, TUTO, 25, TUTO 15]
+    - [16, TUTO, 25, TUTO 16]
+    - [17, TUTO, 25, TUTO 17]
+    - [18, TUTO, 25, TUTO 18]
+    - [19, TUTO, 25, TUTO 19]
+    - [20, TUTO, 25, TUTO 20]
+    - [21, TUTO, 25, TUTO 21]
+    - [22, TUTO, 25, TUTO 22]
+    - [23, TUTO, 25, TUTO 23]
+    - [24, TUTO, 25, TUTO 24]
+    - [25, Amphi, 100, Amphi 1]
+    - [26, Amphi, 100, Amphi 2]
+    - [27, Amphi, 100, Amphi 3]
+    - [28, Amphi, 100, Amphi 4]
+    - [29, Amphi, 100, Amphi 5]
+    - [30, Amphi, 100, Amphi 6]
+    - [31, Amphi, 100, Amphi 7]
+    - [32, Amphi, 100, Amphi 8]
+    - [33, LAB, 25, LAB 1]
+    - [34, LAB, 25, LAB 2]
+    - [35, LAB, 25, LAB 3]
+    - [36, LAB, 25, LAB 4]
+    - [37, LAB, 25, LAB 5]
+    - [38, LAB, 25, LAB 6]
+    - [39, LAB, 25, LAB 7]
+    - [40, LAB, 25, LAB 8]
+    - [41, LAB, 25, LAB 9]
+    - [42, LAB, 25, LAB 10]
+    - [43, LAB, 25, LAB 11]
+    - [44, LAB, 25, LAB 12]
+    - [45, LAB, 25, LAB 13]
+    - [46, LAB, 25, LAB 14]
+    - [47, LAB, 25, LAB 15]
+    - [48, LAB, 25, LAB 16]
+    - [49, LAB, 25, LAB 17]
+    - [50, LAB, 25, LAB 18]
+    - [51, LAB, 25, LAB 19]
+
+
+  
+
+  indication: ["study", "free", "lunchbreak"]
+
+
+
+ 
